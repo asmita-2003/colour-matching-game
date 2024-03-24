@@ -17,4 +17,5 @@ Interactive Gameplay: Hover over Box 2 to witness its color-changing magic, addi
 Engaging Feedback: Experience the thrill of success with a cheerful sound effect and victory message upon matching the colors.
 User-Friendly Interface: With a clear layout and intuitive controls, the game ensures a seamless and enjoyable experience for players of all ages.
 So, are you ready to unleash your inner artist and conquer the Color Matching Game? Click the "Match Colors" button and let the fun begin!
+![image](https://github.com/asmita-2003/colour-matching-game/assets/161740703/c291b8cd-70d0-4014-8bbe-b3b3047b848e)
 
